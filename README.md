@@ -1,4 +1,4 @@
 # DeepDIA
 Deep learning for data-independent acquisition
 
-Inspiration: **De novo peptide sequencing by deep learning. Ming Li et al. PNAS, 2017**
+Inspiration: **Ming Li et al. De novo peptide sequencing by deep learning. PNAS, 2017**
